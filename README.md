@@ -1,58 +1,56 @@
-🎓 Undergraduate in AI & Data Science | Aspiring Data Scientist
+# 🎓 Undergraduate in AI & Data Science | Aspiring Data Scientist  
 
-Passionate about solving real-world problems using data-driven solutions and cutting-edge technologies. Currently pursuing my Bachelor of Engineering in Artificial Intelligence & Data Science (SPPU University) with a strong academic record (CGPA: 8.27).
+Passionate about solving *real-world problems* using **data-driven solutions** and **cutting-edge technologies**.  
+Currently pursuing my **Bachelor of Engineering in Artificial Intelligence & Data Science (SPPU University)** with a strong academic record (*CGPA: 8.27*).  
 
-💼 Professional Experience
-Data Analyst Intern | AI Unika (Feb 2025 – Mar 2025)
+---
 
-Performed data annotations for high-quality ML datasets.
+## 💼 Professional Experience  
 
-Trained and fine-tuned YOLO models for object detection, improving performance and accuracy.
+### **Data Analyst Intern | AI Unika** *(Feb 2025 – Mar 2025)*  
+- Performed **data annotations** for high-quality ML datasets.  
+- Trained and fine-tuned **YOLO models** for *object detection*, improving performance and accuracy.  
 
-Python & ML Intern | Mass IT Solutions (Dec 2023 – Jul 2024)
+### **Python & ML Intern | Mass IT Solutions** *(Dec 2023 – Jul 2024)*  
+- Built a **VGG16 model** achieving *98% accuracy* in plant classification.  
+- Designed **data automation workflows** for deep learning model comparisons.  
+- Conducted predictive modeling with **hybrid architectures** (*VGG19+LSTM, CNN+RNN*) achieving *99% accuracy*.  
+- Presented **data-driven insights** to stakeholders for project decision-making.  
 
-Built a VGG16 model achieving 98% accuracy in plant classification.
+---
 
-Designed data automation workflows for deep learning model comparisons.
+## 📊 Projects & Research  
 
-Conducted predictive modeling with hybrid architectures (VGG19+LSTM, CNN+RNN) achieving 99% accuracy.
+- **American Sign Language Recognition (YOLO)** → *Presented research paper at IEEE International Conference on Emerging Smart Computing & Informatics 2025.*  
+- **Medicinal Plant Classification (VGG16)** → Achieved *98% accuracy* across 30 classes.  
+- **House Price Prediction (Regression Models)** → Applied *advanced regression techniques* on California housing dataset.  
+- **HR Analytics Dashboard (Tableau)** → Identified *attrition trends* & workforce insights.  
+- **E-Commerce Sales Dashboard (Tableau)** → Enabled *sales trend analysis* & *data-driven strategy*.  
 
-Presented data-driven insights to stakeholders for project decision-making.
+---
 
-📊 Projects & Research
+## 🔧 Skills  
 
-American Sign Language Recognition (YOLO) → Presented research paper at IEEE International Conference on Emerging Smart Computing & Informatics 2025.
+- **Languages:** Python  
+- **ML/DL:** Regression, Classification, Clustering, CNNs, RNNs, VGG, YOLO  
+- **Data Handling:** Data Wrangling, Cleaning, Visualization, *Statistical Analysis*  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn  
+- **Tools:** Jupyter Notebook, GitHub, Tableau, MS Office  
+- **Databases & Cloud:** MySQL, MongoDB, *Microsoft Azure Fundamentals*  
 
-Medicinal Plant Classification (VGG16) → Achieved 98% accuracy across 30 classes.
+---
 
-House Price Prediction (Regression Models) → Applied advanced regression techniques on California housing dataset.
+## 🚀 Career Aspirations  
 
-HR Analytics Dashboard (Tableau) → Identified attrition trends & workforce insights.
+I am committed to bridging the gap between **academic research** and **practical applications**.  
+My goal is to become a *proficient Data Scientist* capable of leveraging AI/ML for impactful **business** and **social solutions**.  
 
-E-Commerce Sales Dashboard (Tableau) → Enabled sales trend analysis & data-driven strategy.
+Let’s connect and collaborate on *innovative AI/ML projects*! 🌍  
 
-🔧 Skills
+---
 
-Languages: Python
+## 🌐 Connect with Me  
 
-ML/DL: Regression, Classification, Clustering, CNNs, RNNs, VGG, YOLO
-
-Data Handling: Data Wrangling, Cleaning, Visualization, Statistical Analysis
-
-Libraries: NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn
-
-Tools: Jupyter Notebook, GitHub, Tableau, MS Office
-
-Databases & Cloud: MySQL, MongoDB, Microsoft Azure Fundamentals
-
-🚀 Career Aspirations
-
-I am committed to bridging the gap between academic research and practical applications. My goal is to become a proficient Data Scientist capable of leveraging AI/ML for impactful business and social solutions.
-
-Let’s connect and collaborate on innovative AI/ML projects! 🌍
-
-🌐 Connect with Me
-
-LinkedIn
- | GitHub
- | Blog
+- [**LinkedIn**](https://www.linkedin.com/in/avadhootkamble/)  
+- [**GitHub**](https://github.com/AvadhootKamble24)  
+- [**Blog**](https://avadhootkamble24.hashnode.dev/)  
